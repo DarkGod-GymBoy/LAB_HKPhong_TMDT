@@ -32,9 +32,9 @@
 | **TH2** | Mã độc: kiểm chứng chu trình phát hiện bằng EICAR | **PASS** |
 | **TH3** | Tấn công mật khẩu và nguy cơ keylogging | **PASS** |
 | **TH4** | Backdoor: nhận diện persistence và dịch vụ lắng nghe | **PASS** |
-| **TH5** | Sniffing, MITM và Spoofing: quan sát HTTP so với HTTPS | **PASS** |
-| **TH6** | DoS, DDoS và Mail Bombing | **PASS** |
-| **TH7** | Social Engineering, Phishing và Spear Phishing | **PASS** |
+| **TH5** | Sniffing, MITM và Spoofing: quan sát HTTP so với HTTPS | **FALL** |
+| **TH6** | DoS, DDoS và Mail Bombing | **FALL** |
+| **TH7** | Social Engineering, Phishing và Spear Phishing | **FALL** |
 
 ## 5. Lỗi gặp phải và Cách khắc phục
 Trong quá trình thực hành, tôi đã gặp một số lỗi sau và đã tự khắc phục thành công:
